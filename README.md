@@ -1,0 +1,2 @@
+# PortableKitPlatformGo
+Python script
